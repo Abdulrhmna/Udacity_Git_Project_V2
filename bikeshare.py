@@ -11,7 +11,7 @@ def get_filters():
         (str) Selected_city - name of the city to analyze which entered by user
         (str) month - name of the month to filter by, or "all" to apply no month filter
      """
-#d
+#d22
 
      list_of_cites ='w','c','n' #To control the input
      List_of_month= '1','2','3','4','5','6','7','8','9','10','12','11','all'#To control the input
